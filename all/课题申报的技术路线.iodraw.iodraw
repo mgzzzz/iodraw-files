@@ -67,11 +67,14 @@
         <mxCell id="zud1HkTRYZhKotX767i2-19" value="构建多维度特征空间下的自适应分类模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="360" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zud1HkTRYZhKotX767i2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="zud1HkTRYZhKotX767i2-23" target="zud1HkTRYZhKotX767i2-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="360" width="115" height="40" as="geometry" />
+          <mxGeometry x="390" y="360" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-26" value="&lt;div&gt;筛选客观量化关键特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="515" y="360" width="95" height="40" as="geometry" />
+          <mxGeometry x="520" y="360" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
