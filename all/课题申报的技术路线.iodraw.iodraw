@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="750" height="500" as="geometry" />
+          <mxGeometry x="10" y="20" width="750" height="630" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-1" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="100" width="120" height="40" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-33" value="建立中医证候客观量化模型的临床评估方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zud1HkTRYZhKotX767i2-34" value="构建多模态客观量化关键特征指标集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
