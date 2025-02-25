@@ -89,7 +89,7 @@
           <mxGeometry x="384.25" y="485" width="103.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-33" value="建立中医证候客观量化模型的临床评估方法" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="506" width="130" height="60" as="geometry" />
+          <mxGeometry x="52.5" y="506" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zud1HkTRYZhKotX767i2-34" target="zud1HkTRYZhKotX767i2-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
