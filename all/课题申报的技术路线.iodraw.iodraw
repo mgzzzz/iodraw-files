@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-2" value="多源异构模态&lt;span style=&quot;background-color: initial;&quot;&gt;影像数据标准化采集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="190" width="120" height="70" as="geometry" />
+          <mxGeometry x="50" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-3" value="构建多模态客观量化关键特征指标集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="120" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="210" y="100" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="170" width="410" height="85" as="geometry" />
+          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
