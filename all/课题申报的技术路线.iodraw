@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-5" value="收集所需资料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="380" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="385" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-11" value="自然光与伪彩图影像采集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="520" y="200" width="90" height="40" as="geometry" />
