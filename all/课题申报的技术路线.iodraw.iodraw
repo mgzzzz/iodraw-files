@@ -13,7 +13,7 @@
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-2" value="多模态&lt;span style=&quot;background-color: initial;&quot;&gt;影像数据标准化采集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-3" value="构建多模态共性关键特征指标集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-6" value="具体研究方法、技术路线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zud1HkTRYZhKotX767i2-1" value="构建多模态共性关键特征指标集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
