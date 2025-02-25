@@ -82,7 +82,7 @@
         <mxCell id="zud1HkTRYZhKotX767i2-30" value="构建多模态客观量化关键特征指标集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zud1HkTRYZhKotX767i2-31" value="构建" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="zud1HkTRYZhKotX767i2-31" value="构建多模态客观量化关键特征指标集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="450" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
