@@ -76,7 +76,7 @@
         <mxCell id="zud1HkTRYZhKotX767i2-26" value="&lt;div&gt;筛选关键症候特征指标&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zud1HkTRYZhKotX767i2-30" value="构建多维度特征空间下的自适应分类模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="zud1HkTRYZhKotX767i2-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
