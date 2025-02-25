@@ -41,10 +41,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-5" value="收集所需资料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="375" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="380" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-11" value="自然光与伪彩图影像采集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="520" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="zud1HkTRYZhKotX767i2-14" target="zud1HkTRYZhKotX767i2-15">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-15" value="建立跨病种共性特征解析框架" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="375" y="305" width="90" height="40" as="geometry" />
+          <mxGeometry x="385" y="305" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-17" value="构建多维客观量化特征体系" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="305" width="90" height="40" as="geometry" />
