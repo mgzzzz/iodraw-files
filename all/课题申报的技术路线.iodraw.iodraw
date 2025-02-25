@@ -64,6 +64,9 @@
         <mxCell id="zud1HkTRYZhKotX767i2-19" value="构建多维度特征空间下的自适应分类模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="360" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zud1HkTRYZhKotX767i2-23" value="构建多维度特征空间下的自适应分类模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="360" width="115" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
