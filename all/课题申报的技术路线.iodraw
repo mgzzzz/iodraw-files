@@ -13,7 +13,7 @@
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-2" value="多源异构模态&lt;span style=&quot;background-color: initial;&quot;&gt;影像数据标准化采集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="55" y="180" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-3" value="构建多模态客观量化关键特征指标集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-3" value="构建多模态客观量化关键特征指标集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="55" y="290" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-6" value="具体研究方法、技术路线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -22,13 +22,13 @@
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="210" y="180" width="460" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="210" y="290" width="460" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-1" value="建立基于中医多病种关键特征临床评估方法与体系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zud1HkTRYZhKotX767i2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zud1HkTRYZhKotX767i2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="210" y="461" width="460" height="159" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zud1HkTRYZhKotX767i2-4" target="zud1HkTRYZhKotX767i2-5" edge="1">
@@ -88,7 +88,7 @@
         <mxCell id="zud1HkTRYZhKotX767i2-31" value="构建多模态客观量化关键特征指标集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="388.13" y="485" width="103.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zud1HkTRYZhKotX767i2-33" value="建立中医证候客观量化模型的临床评估方法" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zud1HkTRYZhKotX767i2-33" value="建立中医证候客观量化模型的临床评估方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="460" width="125" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zud1HkTRYZhKotX767i2-34" target="zud1HkTRYZhKotX767i2-35" edge="1">
