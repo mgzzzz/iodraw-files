@@ -44,7 +44,7 @@
           <mxGeometry x="386" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-11" value="自然光与伪彩图影像采集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="520" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zud1HkTRYZhKotX767i2-14" target="zud1HkTRYZhKotX767i2-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-31" value="构建多模态客观量化关键特征指标集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="384.25" y="485" width="103.75" height="40" as="geometry" />
+          <mxGeometry x="388.13" y="485" width="103.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-33" value="建立中医证候客观量化模型的临床评估方法" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="460" width="125" height="160" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-35" value="根据纳排标准筛选受试者并收集一般资料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="384.25" y="545" width="103.75" height="50" as="geometry" />
+          <mxGeometry x="388.13" y="545" width="103.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-37" value="利用中医证候客观量化模型评估方法对受检者进行评估，对比准确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="533" y="539.5" width="115" height="61" as="geometry" />
