@@ -82,6 +82,9 @@
         <mxCell id="zud1HkTRYZhKotX767i2-30" value="构建多模态客观量化关键特征指标集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zud1HkTRYZhKotX767i2-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="zud1HkTRYZhKotX767i2-31" target="zud1HkTRYZhKotX767i2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-31" value="构建多病种风险识别模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="450" width="115" height="40" as="geometry" />
         </mxCell>
@@ -94,8 +97,17 @@
         <mxCell id="zud1HkTRYZhKotX767i2-34" value="临床验证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="510" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zud1HkTRYZhKotX767i2-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="zud1HkTRYZhKotX767i2-35" target="zud1HkTRYZhKotX767i2-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-35" value="根据纳排标准筛选受试者并收集一般资料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="510" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zud1HkTRYZhKotX767i2-37" value="根据纳排标准筛选受试者并收集一般资料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="525" y="510" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zud1HkTRYZhKotX767i2-39" value="构建多病种风险识别模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="525" y="450" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
