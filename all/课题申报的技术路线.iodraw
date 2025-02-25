@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-4" value="根据纳排标准筛选受试者" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#f9f5f5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="250.5" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="265" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zud1HkTRYZhKotX767i2-5" target="zud1HkTRYZhKotX767i2-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
