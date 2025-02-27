@@ -82,7 +82,7 @@
         <mxCell id="zud1HkTRYZhKotX767i2-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zud1HkTRYZhKotX767i2-31" target="zud1HkTRYZhKotX767i2-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zud1HkTRYZhKotX767i2-31" value="构建中医症候客观量化关键特征指标集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="zud1HkTRYZhKotX767i2-31" value="构建中医诊断客观量化关键特征指标集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="390" y="485" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-33" value="&lt;b&gt;建立中医证候客观量化模型的临床评估方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -103,7 +103,7 @@
         <mxCell id="zud1HkTRYZhKotX767i2-37" value="利用中医证候客观量化模型评估方法对受检者进行评估，对比准确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="537.5" y="539.5" width="115" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="zud1HkTRYZhKotX767i2-39" value="构建&lt;span style=&quot;background-color: initial;&quot;&gt;中医症候时空特征自然分类&lt;/span&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="zud1HkTRYZhKotX767i2-39" value="构建&lt;span style=&quot;background-color: initial;&quot;&gt;中医诊断时空特征自然分类&lt;/span&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="537.5" y="485" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PT2-AgPrPY3s2VZtutqF-1" value="建立中医图像时空特征客观量化模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
