@@ -10,7 +10,7 @@
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-1" value="&lt;b&gt;研究内容&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="55" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-2" value="多源异构模态&lt;span style=&quot;background-color: initial;&quot;&gt;影像数据标准化采集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-2" value="多源&lt;span style=&quot;background-color: initial;&quot;&gt;影像数据标准化采集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="55" y="180" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-3" value="&lt;b&gt;构建多源客观量化关键特征指标集&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
