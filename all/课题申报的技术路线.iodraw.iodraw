@@ -40,7 +40,7 @@
         <mxCell id="zud1HkTRYZhKotX767i2-5" value="收集所需资料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="395.13" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zud1HkTRYZhKotX767i2-11" value="自然光与伪彩图影像采集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="zud1HkTRYZhKotX767i2-11" value="极弱心磁与伪彩图影像采集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="537.5" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zud1HkTRYZhKotX767i2-14" target="zud1HkTRYZhKotX767i2-15" edge="1">
