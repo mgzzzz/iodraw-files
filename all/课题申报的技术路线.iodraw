@@ -13,7 +13,7 @@
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-2" value="数据标准化采集方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="55" y="180" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-3" value="&lt;b&gt;构建多模态客观量化关键特征指标集&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wPcQ0H8dvSmDJh7WQzX1-3" value="&lt;b&gt;构建客观量化关键特征指标集&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="55" y="290" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wPcQ0H8dvSmDJh7WQzX1-6" value="&lt;b&gt;具体研究方法、技术路线&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="zud1HkTRYZhKotX767i2-5" value="收集所需资料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="395.13" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zud1HkTRYZhKotX767i2-11" value="自然光与伪彩图影像采集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="zud1HkTRYZhKotX767i2-11" value="伪彩图影像采集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="537.5" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zud1HkTRYZhKotX767i2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zud1HkTRYZhKotX767i2-14" target="zud1HkTRYZhKotX767i2-15" edge="1">
