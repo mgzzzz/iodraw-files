@@ -107,7 +107,7 @@
           <mxGeometry x="537.5" y="485" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PT2-AgPrPY3s2VZtutqF-1" value="建立中医图像时空特征客观量化模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#fdfcfc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="720" y="329" width="100" height="40" as="geometry" />
+          <mxGeometry x="395.13" y="270" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
