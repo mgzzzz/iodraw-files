@@ -19,8 +19,8 @@
         <mxCell id="XrAjg4ExQPFZ66-4thmQ-17" value="&lt;font color=&quot;#f9f6f6&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;时空量化特征&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1c536e;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="30" y="360" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XrAjg4ExQPFZ66-4thmQ-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_stripe;dx=10;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="100" height="60" as="geometry" />
+        <mxCell id="XrAjg4ExQPFZ66-4thmQ-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
