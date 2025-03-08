@@ -309,7 +309,7 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-144" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Arial&quot;&gt;&lt;b&gt;构建证候相似度分类模型&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="1105" width="255" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-145" target="JTctc8yJkumPqIOEOVUq-149">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-145" target="JTctc8yJkumPqIOEOVUq-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-145" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
