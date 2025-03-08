@@ -97,7 +97,7 @@
           <mxGeometry x="-182" y="700" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-35" value="&lt;p style=&quot;line-height: 0.12px;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;根据纳排标准收集病人(冠&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;padding: 0px; margin: 0px; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;M3ehZqayzQoCWPkJipF3&quot;&gt;高血脂、高血压、失眠)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="273" y="240" width="217" height="30" as="geometry" />
+          <mxGeometry x="273" y="240" width="237" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-36" value="&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;中医诊断标准&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="240" width="210" height="30" as="geometry" />
