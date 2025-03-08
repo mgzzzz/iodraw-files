@@ -258,8 +258,8 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-122" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEDEB;strokeColor=#A25557;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="860" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-124" value="&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;提取临床不同证候人群的空域特征&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="1030" width="310" height="30" as="geometry" />
+        <mxCell id="JTctc8yJkumPqIOEOVUq-124" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;提取临床不同证候人群的空域特征&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="875" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
