@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="oChcgpiaauKlZx9sE6bG">
-    <mxGraphModel dx="2927" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3452" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,125 +53,6 @@
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-48" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Arial&quot; style=&quot;font-size: 16px;&quot;&gt;进行了证候信息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;采集、计分和分类，&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;共分为：虚证、实证、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;虚实夹杂证、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;虚实平和态4类&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-262.5" y="205" width="175" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-51" target="JTctc8yJkumPqIOEOVUq-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-51" target="JTctc8yJkumPqIOEOVUq-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-51" value="&lt;font&gt;提取不同证候人群的共性指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1555" y="450" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-53" target="JTctc8yJkumPqIOEOVUq-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-53" value="提取临床不同证候人群的空域特征" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="530" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-54" value="几何层面特征提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-56" target="JTctc8yJkumPqIOEOVUq-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-56" value="数学层面特征提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-57" value="物理层面特征提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-59" target="JTctc8yJkumPqIOEOVUq-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-59" value="提取临床不同证候人群的时域特征" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1815" y="530" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-61" target="JTctc8yJkumPqIOEOVUq-63">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1935" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-61" value="时频层面特征提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="630" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-63" target="JTctc8yJkumPqIOEOVUq-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-63" value="构建证候相似度分类模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="770" width="380" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-65" target="JTctc8yJkumPqIOEOVUq-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-65" value="构建客观化指标体系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="890" width="380" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-69" target="JTctc8yJkumPqIOEOVUq-78">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1740" y="1170" />
-              <mxPoint x="1740" y="1205" />
-              <mxPoint x="1460" y="1205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-69" target="JTctc8yJkumPqIOEOVUq-79">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1740" y="1170" />
-              <mxPoint x="1740" y="1205" />
-              <mxPoint x="2055" y="1205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-69" target="JTctc8yJkumPqIOEOVUq-80">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1740" y="1170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-69" value="临床验证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="1110" width="390" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-71" target="JTctc8yJkumPqIOEOVUq-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-71" value="客观化指标的“比类”模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="1000" width="390" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-72" value="中医“象”的相似度和评估定量判断方法" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="840" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-74" target="JTctc8yJkumPqIOEOVUq-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-74" value="阐明基于相似度判断与评估的关键特征指标构建机制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="875" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-75" value="基于聚类的方法进行无监督分类" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="1070" width="260" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-77" target="JTctc8yJkumPqIOEOVUq-79">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2100" y="1240" />
-              <mxPoint x="2100" y="1240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-77" value="探究关键特征在不同证候人群中的“比类”模型判断依据的重要性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="1080" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-78" value="验证用关键指标得到的系统辨证分类结果与临床辩证一致性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1240" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-79" value="构建不同证候人群的&quot;比类&quot;模型可溯源证据链" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="1240" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-80" value="挖掘关键特征在不同证候人群之间的差异" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1240" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-81" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;人体功能信息成像特征标准化采集&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="88.63" y="403" width="359" height="30" as="geometry" />
