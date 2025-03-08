@@ -303,8 +303,8 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-140" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1100" width="580" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-144" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1110" width="60" height="30" as="geometry" />
+        <mxCell id="JTctc8yJkumPqIOEOVUq-144" value="构建证候相似度分类模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1105" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
