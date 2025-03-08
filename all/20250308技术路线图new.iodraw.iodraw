@@ -330,8 +330,8 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-151" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1290" width="580" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-154" value="客观化指标的“比类”模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1360" width="140" height="30" as="geometry" />
+        <mxCell id="JTctc8yJkumPqIOEOVUq-154" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;客观化指标的“比类”模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="118.75" y="1227" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
