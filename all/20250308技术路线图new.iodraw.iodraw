@@ -26,7 +26,7 @@
           <mxGeometry x="-6" y="230" width="206" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="230" width="130" height="70" as="geometry" />
+          <mxGeometry x="-240" y="230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-11" target="JTctc8yJkumPqIOEOVUq-13">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="290" y="1170" width="206" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-30" value="进行了证候信息采集、计分和分类，共分为：虚证、实证、虚实夹杂证、虚实平和态4类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="-235" y="250" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
