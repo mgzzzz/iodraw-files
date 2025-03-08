@@ -180,6 +180,12 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-90" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-91" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-92" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="460" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
