@@ -16,16 +16,16 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-5" target="JTctc8yJkumPqIOEOVUq-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-5" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-5" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="368.24" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-7" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-7" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;" vertex="1" parent="1">
           <mxGeometry x="-56" y="220" width="206" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E9EEFE;strokeColor=#285192;" vertex="1" parent="1">
           <mxGeometry x="-290" y="195" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-11" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=470;" vertex="1" parent="1">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-11" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=470;strokeColor=#285192;" vertex="1" parent="1">
           <mxGeometry x="149.12" y="320" width="470" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-13" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FEE3E5;strokeColor=#78191D;" vertex="1" parent="1">
@@ -89,9 +89,6 @@
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-31" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;基于人群分组筛选出用于后续实验的训练集和测试集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="327.5" width="427" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-32" value="&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;人体功能信息成像特征标准化采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="545" width="326.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-33" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;甲襞微血管检测&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-182" y="700" width="150" height="30" as="geometry" />
@@ -231,7 +228,7 @@
           <mxGeometry x="1630" y="1240" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-81" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;人体功能信息成像特征标准化采集&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="111" y="410" width="359" height="30" as="geometry" />
+          <mxGeometry x="93.63" y="410" width="359" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
