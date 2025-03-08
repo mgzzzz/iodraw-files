@@ -216,7 +216,7 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-105" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Arial&quot;&gt;空域数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="580" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-106" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据标准化&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-106" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据标准化&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;fillColor=#FFEDEB;" vertex="1" parent="1">
           <mxGeometry y="700" width="420" height="40" as="geometry" />
         </mxCell>
       </root>
