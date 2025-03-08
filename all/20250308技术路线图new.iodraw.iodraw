@@ -203,7 +203,7 @@
           <mxGeometry x="255" y="1137" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-148" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;构建时空特征客观化指标体系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="125" y="1167" width="275" height="30" as="geometry" />
+          <mxGeometry x="119" y="1162" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-149" target="JTctc8yJkumPqIOEOVUq-151">
           <mxGeometry relative="1" as="geometry" />
