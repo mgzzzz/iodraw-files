@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="oChcgpiaauKlZx9sE6bG">
-    <mxGraphModel dx="2927" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3269" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,71 +8,71 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-3" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E7F3FE;strokeColor=#285192;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="60" width="530" height="110" as="geometry" />
+          <mxGeometry x="80" y="60" width="530" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-5" target="JTctc8yJkumPqIOEOVUq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="255" as="targetPoint" />
+            <mxPoint x="100" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-5" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="368.24" height="50" as="geometry" />
+          <mxGeometry x="160" y="230" width="368.24" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-7" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="14" y="220" width="176" height="70" as="geometry" />
+          <mxGeometry x="-76" y="220" width="176" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9EEFE;strokeColor=#285192;strokeWidth=2;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="195" width="190" height="120" as="geometry" />
+          <mxGeometry x="-290" y="195" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-11" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=470;strokeColor=#285192;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="199.12" y="318" width="470" height="45" as="geometry" />
+          <mxGeometry x="109.12" y="318" width="470" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#78191D;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-13" target="JTctc8yJkumPqIOEOVUq-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-13" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FEE3E5;strokeColor=#78191D;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="391" width="1050" height="50" as="geometry" />
+          <mxGeometry x="-290" y="391" width="1050" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-31" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;基于人群分组筛选出用于后续实验的训练集和测试集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="221.5" y="325.5" width="427" height="30" as="geometry" />
+          <mxGeometry x="131.5" y="325.5" width="427" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-35" value="&lt;p style=&quot;line-height: 0.12px;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;根据纳排标准收集病人(冠&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;padding: 0px; margin: 0px; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;M3ehZqayzQoCWPkJipF3&quot;&gt;高血脂、高血压、失眠)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315.62" y="230" width="237" height="50" as="geometry" />
+          <mxGeometry x="225.62" y="230" width="237" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-36" value="&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;中医诊断标准&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="22" y="240" width="160" height="30" as="geometry" />
+          <mxGeometry x="-68" y="240" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.604;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-11" target="JTctc8yJkumPqIOEOVUq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-46" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;实验对象招募与分组&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="301.5" y="100" width="260" height="30" as="geometry" />
+          <mxGeometry x="211.5" y="100" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-48" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Arial&quot; style=&quot;font-size: 16px;&quot;&gt;进行了证候信息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;采集、计分和分类，&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;共分为：虚证、实证、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;虚实夹杂证、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;虚实平和态4类&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-192.5" y="205" width="175" height="100" as="geometry" />
+          <mxGeometry x="-282.5" y="205" width="175" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-81" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;人体功能信息成像特征标准化采集&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="158.63" y="403" width="359" height="30" as="geometry" />
+          <mxGeometry x="68.63" y="403" width="359" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-88" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="470" width="280" height="40" as="geometry" />
+          <mxGeometry x="-185" y="470" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#78191D;strokeWidth=2;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-91" target="JTctc8yJkumPqIOEOVUq-106">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="665" />
-              <mxPoint x="325" y="665" />
+              <mxPoint x="-20" y="665" />
+              <mxPoint x="235" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-91" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="560" width="420" height="70" as="geometry" />
+          <mxGeometry x="-290" y="560" width="420" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-92" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;甲襞微血管检测&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-59" y="475" width="190" height="30" as="geometry" />
+          <mxGeometry x="-149" y="475" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#78191D;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-93" target="JTctc8yJkumPqIOEOVUq-91">
           <mxGeometry relative="1" as="geometry" />
@@ -81,39 +81,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-93" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
-          <mxGeometry x="185" y="470" width="280" height="40" as="geometry" />
+          <mxGeometry x="95" y="470" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-94" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
-          <mxGeometry x="465" y="470" width="280" height="40" as="geometry" />
+          <mxGeometry x="375" y="470" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-97" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;红外热成像检测&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220.12" y="475" width="190" height="30" as="geometry" />
+          <mxGeometry x="130.12" y="475" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-98" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;心磁检测&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="518.63" y="475" width="190" height="30" as="geometry" />
+          <mxGeometry x="428.63" y="475" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#78191D;strokeWidth=2;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-99" target="JTctc8yJkumPqIOEOVUq-106">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="665" />
-              <mxPoint x="325" y="665" />
+              <mxPoint x="480" y="665" />
+              <mxPoint x="235" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-99" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
-          <mxGeometry x="430" y="560" width="420" height="70" as="geometry" />
+          <mxGeometry x="340" y="560" width="420" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-104" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;时域数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="580" width="100" height="30" as="geometry" />
+          <mxGeometry x="-130" y="580" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-105" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Arial&quot;&gt;空域数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="590" y="580" width="100" height="30" as="geometry" />
+          <mxGeometry x="500" y="580" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#78191D;strokeWidth=2;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-106" target="JTctc8yJkumPqIOEOVUq-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-106" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;数据标准化&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#A25557;fillColor=#FFEDEB;" vertex="1" parent="1">
-          <mxGeometry x="20" y="700" width="610" height="40" as="geometry" />
+          <mxGeometry x="-70" y="700" width="610" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#285192;strokeWidth=2;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-113" target="JTctc8yJkumPqIOEOVUq-120">
           <mxGeometry relative="1" as="geometry" />
@@ -122,100 +122,100 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-113" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEDEB;strokeColor=#A25557;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="770" width="1050" height="40" as="geometry" />
+          <mxGeometry x="-290" y="770" width="1050" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-116" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;htQdDMTlws7Te7rEJQvi&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;提取不同证候人群的共性指标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="182.56" y="775" width="284.88" height="30" as="geometry" />
+          <mxGeometry x="92.56" y="775" width="284.88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-118" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9EEFE;strokeColor=#285192;strokeWidth=2;arcSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="640" width="190" height="120" as="geometry" />
+          <mxGeometry x="-290" y="640" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-119" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;基于多源影像融合与全流程质控的标&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;准化采集体系，构&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;建人体功能信息成&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;像数据库&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-192.5" y="650" width="175" height="100" as="geometry" />
+          <mxGeometry x="-282.5" y="650" width="175" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-120" target="JTctc8yJkumPqIOEOVUq-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-120" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEDEB;strokeColor=#A25557;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="860" width="440" height="60" as="geometry" />
+          <mxGeometry x="-240" y="860" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-122" target="JTctc8yJkumPqIOEOVUq-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-122" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEDEB;strokeColor=#A25557;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="860" width="440" height="60" as="geometry" />
+          <mxGeometry x="270" y="860" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-124" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;提取临床不同证候人群的空域特征&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="875" width="310" height="30" as="geometry" />
+          <mxGeometry x="-180" y="875" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-126" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;提取临床不同证候人群的时域特征&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="425" y="875" width="310" height="30" as="geometry" />
+          <mxGeometry x="335" y="875" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-127" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="940" width="140" height="85" as="geometry" />
+          <mxGeometry x="-230" y="940" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#285192;strokeWidth=2;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-130" target="JTctc8yJkumPqIOEOVUq-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-130" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="940" width="140" height="85" as="geometry" />
+          <mxGeometry x="-90" y="940" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-131" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="940" width="140" height="85" as="geometry" />
+          <mxGeometry x="50" y="940" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-132" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 15px;&quot;&gt;几何层面特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="956" width="70" height="56" as="geometry" />
+          <mxGeometry x="-195" y="956" width="70" height="56" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-133" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 15px;&quot;&gt;数学层面特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="30" y="956" width="70" height="56" as="geometry" />
+          <mxGeometry x="-60" y="956" width="70" height="56" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-134" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 15px;&quot;&gt;物理层面特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="175" y="956" width="70" height="56" as="geometry" />
+          <mxGeometry x="85" y="956" width="70" height="56" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#285192;strokeWidth=2;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-135" target="JTctc8yJkumPqIOEOVUq-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-135" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="941.5" width="140" height="85" as="geometry" />
+          <mxGeometry x="420" y="941.5" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-136" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 15px;&quot;&gt;时频层面特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="545" y="957.5" width="70" height="56" as="geometry" />
+          <mxGeometry x="455" y="957.5" width="70" height="56" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-140" target="JTctc8yJkumPqIOEOVUq-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-140" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1100" width="580" height="40" as="geometry" />
+          <mxGeometry x="-80" y="1100" width="580" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-144" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Arial&quot;&gt;&lt;b&gt;构建证候相似度分类模型&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="172.5" y="1105" width="255" height="30" as="geometry" />
+          <mxGeometry x="82.5" y="1105" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-145" target="JTctc8yJkumPqIOEOVUq-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-145" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1162" width="580" height="40" as="geometry" />
+          <mxGeometry x="-80" y="1162" width="580" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-147" value="&lt;span style=&quot;font-family: Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;中医“象”的相似度和评估定量判断方法&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1137" width="260" height="30" as="geometry" />
+          <mxGeometry x="230" y="1137" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-148" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;构建客观化指标体系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1167" width="217.5" height="30" as="geometry" />
+          <mxGeometry x="100" y="1167" width="217.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-149" target="JTctc8yJkumPqIOEOVUq-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-149" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1222" width="580" height="40" as="geometry" />
+          <mxGeometry x="-80" y="1222" width="580" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-151" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1290" width="580" height="40" as="geometry" />
+          <mxGeometry x="-80" y="1290" width="580" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-154" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;客观化指标的“比类”模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="188.75" y="1227" width="220" height="30" as="geometry" />
+          <mxGeometry x="98.75" y="1227" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-155" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;临床验证&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="249.25" y="1293" width="105" height="30" as="geometry" />
+          <mxGeometry x="159.25" y="1293" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
