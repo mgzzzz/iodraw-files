@@ -321,8 +321,14 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-148" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;构建客观化指标体系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="120" y="1167" width="217.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-149" target="JTctc8yJkumPqIOEOVUq-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-149" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1222" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-151" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1290" width="580" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
