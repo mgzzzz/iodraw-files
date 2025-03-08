@@ -172,13 +172,16 @@
           <mxGeometry x="88.63" y="403" width="359" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-88" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="470" width="250" height="55" as="geometry" />
+          <mxGeometry x="-180" y="470" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-91" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
           <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-92" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;甲襞微血管检测&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-135" y="545" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-93" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
