@@ -210,7 +210,7 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-99" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#78191D;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="420" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-104" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 18px;&quot;&gt;时域数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-104" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;时域数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-110" y="580" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-105" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;空域数据&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
