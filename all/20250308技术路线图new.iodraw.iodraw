@@ -125,7 +125,7 @@
           <mxGeometry x="283" y="110" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-35" value="&lt;p style=&quot;line-height: 0.12px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;根据纳排标准收集病人(冠&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;padding: 0px; margin: 0px; font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;高血脂、高血压、失眠)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="273" y="255" width="217" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
