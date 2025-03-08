@@ -252,6 +252,9 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-119" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;基于多源影像融合与全流程质控的标&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;准化采集体系，构&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;建人体功能信息成&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;像数据库&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-262.5" y="650" width="175" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-120" target="JTctc8yJkumPqIOEOVUq-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-120" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEDEB;strokeColor=#A25557;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-220" y="860" width="440" height="60" as="geometry" />
         </mxCell>
