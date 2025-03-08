@@ -237,8 +237,8 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-113" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEDEB;strokeColor=#A25557;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-270" y="770" width="1050" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-116" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="200" y="620" width="60" height="30" as="geometry" />
+        <mxCell id="JTctc8yJkumPqIOEOVUq-116" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;提取不同证候人群的共性指标&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
