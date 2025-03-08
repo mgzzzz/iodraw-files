@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-5" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="217.75" y="230" width="350.49" height="70" as="geometry" />
+          <mxGeometry x="200" y="230" width="368.24" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-7" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-166" y="230" width="206" height="70" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="273" y="255" width="217" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-36" value="&lt;span style=&quot;font-family: Arial; font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;中医诊断标准&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="350" width="210" height="30" as="geometry" />
+          <mxGeometry x="-170" y="250" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
