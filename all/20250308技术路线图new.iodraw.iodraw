@@ -13,6 +13,11 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-5" target="JTctc8yJkumPqIOEOVUq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-5" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#285192;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="230" width="368.24" height="50" as="geometry" />
         </mxCell>
@@ -38,7 +43,7 @@
           <mxGeometry x="245.62" y="230" width="237" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-36" value="&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;中医诊断标准&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="295.5" width="160" height="30" as="geometry" />
+          <mxGeometry x="-48" y="240" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.623;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#285192;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-11" target="JTctc8yJkumPqIOEOVUq-13">
           <mxGeometry relative="1" as="geometry" />
