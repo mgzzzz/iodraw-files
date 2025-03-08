@@ -268,7 +268,7 @@
           <mxGeometry x="119" y="1371" width="240" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-180" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;div&gt;构建不同证候人群的&quot;比类&quot;模型&lt;span style=&quot;background-color: initial;&quot;&gt;可溯源证据链&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1371" width="240" height="48" as="geometry" />
+          <mxGeometry x="440" y="1371" width="280" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
