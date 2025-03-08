@@ -47,13 +47,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-15" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;红外热成像&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-15" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;红外热成像&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="680" width="206" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-17" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="680" width="206" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-18" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-18" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;心磁检测&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="680" width="206" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-21" target="JTctc8yJkumPqIOEOVUq-22">
