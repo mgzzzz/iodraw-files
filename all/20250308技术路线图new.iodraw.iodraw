@@ -235,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-151" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="1293" width="630" height="40" as="geometry" />
+          <mxGeometry x="-76" y="1285" width="630" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-154" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;客观化指标的“比类”模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="123.75" y="1227" width="220" height="30" as="geometry" />
@@ -262,7 +262,7 @@
           <mxGeometry x="585" y="1213" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-175" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;基于多源影像融合与全流程质控的标&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;准化采集体系，构&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;建人体功能信息成&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0CA5vQcOn3DTH9FwpY6&quot;&gt;像数据库&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="1223" width="175" height="100" as="geometry" />
+          <mxGeometry x="592.5" y="1225" width="175" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
