@@ -232,7 +232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-106" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;数据标准化&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=#A25557;fillColor=#FFEDEB;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="700" width="600" height="40" as="geometry" />
+          <mxGeometry x="-50" y="700" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-113" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEDEB;strokeColor=#A25557;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-270" y="770" width="1050" height="40" as="geometry" />
