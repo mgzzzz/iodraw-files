@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-13" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="400" width="1080" height="70" as="geometry" />
+          <mxGeometry x="-289" y="450" width="1080" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-15" target="JTctc8yJkumPqIOEOVUq-21">
           <mxGeometry relative="1" as="geometry">
@@ -114,10 +114,10 @@
           <mxGeometry x="-290" y="220" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-31" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;基于人群分组筛选出用于后续实验的训练集和测试集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="427" height="30" as="geometry" />
+          <mxGeometry x="441" y="530" width="427" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-32" value="&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;人体功能信息成像特征标准化采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="326.25" height="30" as="geometry" />
+          <mxGeometry x="101" y="470" width="326.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-33" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;甲襞微血管检测&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-182" y="700" width="150" height="30" as="geometry" />
