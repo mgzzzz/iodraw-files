@@ -310,10 +310,10 @@
           <mxGeometry x="102.5" y="1105" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-145" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1160" width="580" height="40" as="geometry" />
+          <mxGeometry x="-60" y="1162" width="580" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-147" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1135" width="60" height="30" as="geometry" />
+        <mxCell id="JTctc8yJkumPqIOEOVUq-147" value="&lt;span style=&quot;font-family: Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;中医“象”的相似度和评估定量判断方法&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1135" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
