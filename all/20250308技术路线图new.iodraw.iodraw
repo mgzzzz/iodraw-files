@@ -56,6 +56,14 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-13" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="206" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-15" target="JTctc8yJkumPqIOEOVUq-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="790" />
+              <mxPoint x="123" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-15" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="206" height="70" as="geometry" />
         </mxCell>
@@ -67,6 +75,12 @@
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-21" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="850" width="206" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-22" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1020" width="206" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-23" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="850" width="206" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
