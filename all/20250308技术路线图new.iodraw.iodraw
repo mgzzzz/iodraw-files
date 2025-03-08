@@ -31,33 +31,6 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-13" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FEE3E5;strokeColor=#78191D;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-270" y="391" width="1050" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JTctc8yJkumPqIOEOVUq-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-107" y="920" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-107" y="970" />
-              <mxPoint x="163" y="970" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-22" target="JTctc8yJkumPqIOEOVUq-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-22" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1020" width="206" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JTctc8yJkumPqIOEOVUq-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="423" y="920" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="423" y="970" />
-              <mxPoint x="163" y="970" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-28" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1170" width="206" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-31" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;基于人群分组筛选出用于后续实验的训练集和测试集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="325.5" width="427" height="30" as="geometry" />
         </mxCell>
@@ -195,8 +168,14 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-80" value="挖掘关键特征在不同证候人群之间的差异" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1240" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-81" target="JTctc8yJkumPqIOEOVUq-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-81" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;人体功能信息成像特征标准化采集&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="88.63" y="403" width="359" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-86" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="208.13" y="498" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
