@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JTctc8yJkumPqIOEOVUq-3" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="170" width="216" height="90" as="geometry" />
+          <mxGeometry x="294" y="170" width="206" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
