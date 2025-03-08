@@ -113,7 +113,7 @@
           <mxGeometry x="-330" y="240" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-31" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;基于人群分组筛选出用于后续实验的训练集和测试集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="400" width="427" height="30" as="geometry" />
+          <mxGeometry x="179.5" y="400" width="427" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-32" value="&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;人体功能信息成像特征标准化采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="219.88" y="550" width="326.25" height="30" as="geometry" />
