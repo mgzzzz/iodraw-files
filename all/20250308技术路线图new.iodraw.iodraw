@@ -270,6 +270,9 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-180" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;div&gt;构建不同证候人群的&quot;比类&quot;模型&lt;span style=&quot;background-color: initial;&quot;&gt;可溯源证据链&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="454" y="1371" width="280" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-181" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;基于聚类的方法进行无监督分类&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1257" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
