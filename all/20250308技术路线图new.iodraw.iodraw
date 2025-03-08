@@ -16,7 +16,7 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-5" target="JTctc8yJkumPqIOEOVUq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTctc8yJkumPqIOEOVUq-5" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;实验对象招募与分组&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JTctc8yJkumPqIOEOVUq-5" value="&lt;p style=&quot;line-height: 1%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;根据纳排标准收集病人(冠心病、&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;padding: 0px; margin: 0px; font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;高血脂、高血压、失眠)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="206" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-7" target="JTctc8yJkumPqIOEOVUq-9">
