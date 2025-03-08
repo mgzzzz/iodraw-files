@@ -131,6 +131,9 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-36" value="&lt;span style=&quot;font-family: Arial; font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;中医诊断标准&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="240" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.623;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-11" target="JTctc8yJkumPqIOEOVUq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
