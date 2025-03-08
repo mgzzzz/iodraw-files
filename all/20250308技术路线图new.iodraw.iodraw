@@ -113,6 +113,9 @@
         <mxCell id="JTctc8yJkumPqIOEOVUq-30" value="&lt;span style=&quot;font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;进行了证候信息&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;采集、计分和分类，&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;共分为：虚证、实证、&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;虚实夹杂证、&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;虚实平和态4类&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-290" y="220" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-31" target="JTctc8yJkumPqIOEOVUq-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-31" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;基于人群分组筛选出用于后续实验的训练集和测试集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="325" width="427" height="30" as="geometry" />
         </mxCell>
@@ -133,6 +136,9 @@
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.624;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-11" target="JTctc8yJkumPqIOEOVUq-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTctc8yJkumPqIOEOVUq-42" value="&lt;span style=&quot;font-family: Arial; font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;基于人群分组筛选出用于后续实验的训练集和测试集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-329.5" y="325" width="427" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
