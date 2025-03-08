@@ -188,7 +188,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-140" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1100" width="630" height="40" as="geometry" />
+          <mxGeometry x="-76" y="1100" width="630" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-144" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Arial&quot;&gt;&lt;b&gt;构建证候相似度分类模型&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="107.5" y="1105" width="255" height="30" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-145" value="" style="whiteSpace=wrap;html=1;strokeColor=#285192;rounded=0;strokeWidth=2;fillColor=#E7F3FE;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="1162" width="580" height="40" as="geometry" />
+          <mxGeometry x="-55" y="1162" width="630" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-147" value="&lt;span style=&quot;font-family: Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;中医“象”的相似度和评估定量判断方法&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="255" y="1137" width="260" height="30" as="geometry" />
