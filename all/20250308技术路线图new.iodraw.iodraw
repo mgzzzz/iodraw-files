@@ -109,7 +109,7 @@
           <mxGeometry x="251.5" y="100" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-48" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Arial&quot; style=&quot;font-size: 16px;&quot;&gt;进行了证候信息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;采集、计分和分类，&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;共分为：虚证、实证、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;虚实夹杂证、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;KOCZFWxXl9V-qEL3_P_b&quot; style=&quot;font-size: 16px;&quot;&gt;虚实平和态4类&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-282.5" y="210" width="195" height="90" as="geometry" />
+          <mxGeometry x="-282.5" y="210" width="195" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JTctc8yJkumPqIOEOVUq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JTctc8yJkumPqIOEOVUq-51" target="JTctc8yJkumPqIOEOVUq-59">
           <mxGeometry relative="1" as="geometry" />
