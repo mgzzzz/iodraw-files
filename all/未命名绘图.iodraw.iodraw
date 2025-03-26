@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-13" value="图像反馈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="390" width="150" height="30" as="geometry" />
+          <mxGeometry x="130" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
