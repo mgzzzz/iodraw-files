@@ -19,13 +19,13 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-2" value="软件终端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-4" value="实时反馈图像、硬件位置（三轴坐标）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实时反馈图像、硬件位置（三轴坐标）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="282.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;自动对焦算法模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="30" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-8" value="计算焦距并反馈到软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;计算焦距并反馈到软件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="312.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-9" target="w-TeZNzryI2EXkm5LmiV-1">
@@ -53,10 +53,10 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-17" value="传输三轴位移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="332.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-21" value="移动镜头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;移动镜头&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="152.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-22" value="实时采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实时采集&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="172.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
