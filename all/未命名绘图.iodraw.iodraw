@@ -10,11 +10,14 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-1" value="采集卡/器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-2" value="软件接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-2" value="软件实时接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-4" value="实时反馈图像、硬件位置（三轴坐标）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
