@@ -19,9 +19,6 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-2" target="w-TeZNzryI2EXkm5LmiV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-2" target="w-TeZNzryI2EXkm5LmiV-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-2" value="软件终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,10 +26,10 @@
           <mxGeometry x="340" y="282.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-5" value="自动对焦算法模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="442.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-8" value="计算焦距并反馈到软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="402.5" width="150" height="30" as="geometry" />
+          <mxGeometry x="140" y="292.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-9" target="w-TeZNzryI2EXkm5LmiV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,10 +47,10 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-14" value="硬件控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-5">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-5" target="w-TeZNzryI2EXkm5LmiV-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="442.5" as="sourcePoint" />
-            <mxPoint x="340" y="392.5" as="targetPoint" />
+            <mxPoint x="90" y="332.5" as="sourcePoint" />
+            <mxPoint x="140" y="282.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-17" value="传输三轴位移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -67,9 +64,6 @@
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-24" value="阶段一" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="60" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-33" value="软件终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
