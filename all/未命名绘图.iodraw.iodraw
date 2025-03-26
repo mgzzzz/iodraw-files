@@ -69,8 +69,8 @@
             <mxPoint x="150" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-45" value="自动对焦后，&lt;div&gt;可用软件进行控制，传输三轴位移&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="252.5" width="190" height="30" as="geometry" />
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-45" value="自动对焦完成后，&lt;div&gt;可用软件进行控制，传输三轴位移&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="260" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
