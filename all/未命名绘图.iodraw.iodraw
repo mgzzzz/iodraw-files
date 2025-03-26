@@ -28,7 +28,7 @@
           <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-8" value="计算焦距并反馈到软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="390" width="150" height="30" as="geometry" />
+          <mxGeometry x="230" y="390" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-9" target="w-TeZNzryI2EXkm5LmiV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -36,11 +36,14 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-9" value="镜头硬件端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="w-TeZNzryI2EXkm5LmiV-2">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.587;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.587;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-5" target="w-TeZNzryI2EXkm5LmiV-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="430" as="sourcePoint" />
             <mxPoint x="280" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-13" value="计算焦距并反馈到软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
