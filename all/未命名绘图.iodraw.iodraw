@@ -28,7 +28,7 @@
           <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-8" value="计算焦距并反馈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="150" height="30" as="geometry" />
+          <mxGeometry x="320" y="410" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-9" target="w-TeZNzryI2EXkm5LmiV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -69,8 +69,8 @@
             <mxPoint x="150" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-45" value="软件控制，传输三维移动量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="260" width="150" height="30" as="geometry" />
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-45" value="自动对焦后，可用软件控制，传输三轴位移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="260" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
