@@ -13,11 +13,15 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-1" value="采集卡/器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="212.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-35" target="w-TeZNzryI2EXkm5LmiV-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="w-TeZNzryI2EXkm5LmiV-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="362.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-2" target="w-TeZNzryI2EXkm5LmiV-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="362.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-2" value="软件终端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="332.5" width="120" height="60" as="geometry" />
@@ -58,20 +62,13 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-22" value="实时采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="172.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-35" target="w-TeZNzryI2EXkm5LmiV-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="w-TeZNzryI2EXkm5LmiV-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="362.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-37" value="界面端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-50" y="332.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-2" target="w-TeZNzryI2EXkm5LmiV-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="363" as="sourcePoint" />
-            <mxPoint x="100" y="163" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="110" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-2" target="w-TeZNzryI2EXkm5LmiV-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
