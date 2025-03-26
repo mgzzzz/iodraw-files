@@ -31,7 +31,7 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-9" target="w-TeZNzryI2EXkm5LmiV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-9" value="镜头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-9" value="镜头硬件端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
