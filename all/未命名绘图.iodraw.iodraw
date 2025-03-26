@@ -31,15 +31,16 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-9" value="镜头硬件端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-14" target="w-TeZNzryI2EXkm5LmiV-9">
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-14" target="w-TeZNzryI2EXkm5LmiV-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="410" y="320" />
               <mxPoint x="410" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-14" value="硬件控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,6 +53,9 @@
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-21" value="移动镜头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-22" value="实时采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
