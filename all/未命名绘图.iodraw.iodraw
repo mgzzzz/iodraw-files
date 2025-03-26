@@ -48,8 +48,8 @@
             <mxPoint x="140" y="282.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-TeZNzryI2EXkm5LmiV-17" value="自动对焦后，传输三轴位移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="212.5" width="80" height="30" as="geometry" />
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-17" value="自动对焦算法，传输三轴位移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="212.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-21" value="移动镜头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="102.5" width="60" height="30" as="geometry" />
