@@ -19,6 +19,9 @@
         <mxCell id="w-TeZNzryI2EXkm5LmiV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-2" target="w-TeZNzryI2EXkm5LmiV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-TeZNzryI2EXkm5LmiV-2" target="w-TeZNzryI2EXkm5LmiV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-2" value="软件终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -54,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-17" value="传输三轴位移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="332.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="410" y="332.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-21" value="移动镜头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="152.5" width="60" height="30" as="geometry" />
@@ -64,6 +67,9 @@
         </mxCell>
         <mxCell id="w-TeZNzryI2EXkm5LmiV-24" value="阶段一" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-TeZNzryI2EXkm5LmiV-33" value="软件终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
